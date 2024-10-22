@@ -1,0 +1,15 @@
+.wrapper {
+    background-image: url("../../image/001.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    font-size: 40px;
+    gap: 40px;
+    border: 5px solid rgb(255, 0, 0);
+    flex-direction: column;
+}
